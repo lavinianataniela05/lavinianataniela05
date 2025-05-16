@@ -1,7 +1,7 @@
 # lavinianataniela051
 <!-- Banner / Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Your+Name!;Frontend+Dev+%7C+UI/UX+Enthusiast+%7C+Tech+Explorer;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Lavinia+Nataniela!;F&center=true&width=500&height=50">
 </p>
 
 <p align="center">
