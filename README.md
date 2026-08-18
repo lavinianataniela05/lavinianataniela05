@@ -1,7 +1,7 @@
 # 👩‍💻 Lavinia Nataniela | Frontend Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=45&lines=Frontend+Developer+%7C+React+%26+Next.js+Specialist;Building+Scalable+and+User-Centric+Web+Applications;Turning+Design+into+High-Quality+Code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=45&lines=Frontend+Developer+%7C+React+%26+Next.js+Specialist;BBuilding+Scalable+and+User-Centric+Web+Applications;Turning+Design+into+High-Quality+Code" alt="Typing animation" />
 </p>
 
 <div align="center">
