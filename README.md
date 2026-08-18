@@ -1,162 +1,283 @@
-# 👩‍💻 Lavinia Nataniela | Frontend Developer
+# 👩🏻‍💻 Lavinia Nataniela
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=45&lines=Frontend+Developer+%7C+React+%26+Next.js+Specialist;Building+Scalable+Web+Applications;Turning+Design+into+High-Quality+Code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&height=45&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications" alt="Typing Animation" />
 </p>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lavinianataniela.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavinianatanielanovyandi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavinianataniela05@gmail.com)
-
-</div>
-
----
-
-## ✨ Professional Summary
-
-Frontend Developer specializing in **React and Next.js**, with strong experience in building **modern, responsive, and scalable web applications**.
-
-Experienced in:
-- designing reusable UI components,
-- integrating backend services (Supabase & Firebase),
-- and delivering clean, maintainable, and well-structured frontend architecture.
-
-Currently focused on developing **full-stack web applications**, performance optimization, and scalable frontend systems.
+<p align="center">
+  <a href="https://lavinianataniela.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lavinianatanielanovyandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lavinianataniela05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧠 Key Strengths
+## About Me
 
-- ⚡ Modern frontend development with **React, Next.js, and TypeScript**
-- 🧩 Scalable component architecture & design systems
-- 🔗 Backend integration using **Supabase, Firebase, and PostgreSQL**
-- 📊 Dashboard & data-driven UI development
-- 🎯 Strong attention to UI/UX and user experience
-- 🧪 Clean code, maintainability, and structured project organization
+I'm a **Frontend Developer** with a strong interest in building modern, responsive, and maintainable web applications.
+
+My main focus is **React, Next.js, and TypeScript**, with experience developing applications involving dashboards, CRUD workflows, database integration, and responsive user interfaces.
+
+I also have experience working with **data analytics, machine learning projects, and software engineering projects**, giving me a broader understanding of how frontend applications connect with data, backend systems, and business requirements.
+
+Currently, I'm focused on improving my skills in **frontend architecture, reusable components, API integration, and full-stack web development**.
 
 ---
 
-## 🛠️ Technical Skills
+## What I Work With
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=vercel&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
+</p>
 
----
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Responsive UI
+* Component-based development
 
 ### Backend & Database
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,prisma" />
+</p>
+
+* Supabase
+* Firebase
+* PostgreSQL
+* Prisma
+* Database integration
+* CRUD applications
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+* Git & GitHub
+* Docker
+* VS Code
+* Vercel
+* Agile / Scrum
+
+### Data & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Python
+* Pandas
+* Scikit-learn
+* XGBoost
+* Data preprocessing
+* Hyperparameter tuning
+* Predictive modeling
 
 ---
 
-### DevOps & Tools
+## Featured Projects
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### ☕ Café Management System
 
----
+**Next.js · TypeScript · Database Integration**
 
-## 📊 GitHub Analytics
+A web-based café management application developed to support operational workflows through a centralized web interface.
 
-<div align="center">
+**Highlights**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavinianataniela05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+* Modern web application built with Next.js
+* TypeScript-based development
+* Component-based UI architecture
+* Application functionality organized through reusable components
+* Deployed using Vercel
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavinianataniela05&layout=compact&hide_border=true&langs_count=6)
+**Live Demo:**
+https://cafemanagementsystem-nu.vercel.app
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lavinianataniela05&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### ☕ Café Management Dashboard
-**Tech Stack:** Next.js 14, TypeScript, Supabase, Tailwind CSS  
-
-A web-based dashboard for café operations including:
-- reservation and order management,
-- menu & inventory management,
-- role-based access,
-- and structured backend integration.
+**Repository:**
+https://github.com/lavinianataniela05/cafemanagementsystem
 
 ---
 
-### 👥 Real-Time Collaborative Platform
-**Tech Stack:** React, Firebase, WebSockets, Material-UI  
+### ♻️ Pengelolaan Sampah
 
-A real-time collaboration system featuring:
-- live data synchronization,
-- user presence indicators,
-- and real-time UI updates.
+**Next.js · TypeScript · Prisma · PostgreSQL**
 
----
+A web application focused on waste management with a structured frontend and database architecture.
 
-### 📊 E-Commerce Analytics Dashboard
-**Tech Stack:** Next.js, PostgreSQL, D3.js, Chart.js  
+**Highlights**
 
-A business intelligence dashboard that visualizes:
-- sales trends,
-- user behavior analytics,
-- and performance metrics through interactive charts.
+* Next.js application architecture
+* TypeScript
+* Reusable components
+* Prisma database layer
+* PostgreSQL-based data management
+* Structured `app`, `components`, `database`, and `lib` directories
+* Deployed using Vercel
 
----
+**Live Demo:**
+https://pengelolaansampah.vercel.app
 
-## 🧩 Other Project Experience
-
-- Student productivity platform (dashboard, forum, schedule, study tracker, AI chatbot)
-- Menu & allergy management web app
-- Micro-frontend based React application architecture
-- CRUD-based web systems integrated with Firebase and Supabase
+**Repository:**
+https://github.com/lavinianataniela05/pengelolaansampah
 
 ---
 
-## 🎯 Current Focus
+### ✈️ Concurrent Flights Prediction
 
-- Building scalable and reusable UI component libraries
-- Advanced state management and frontend architecture
-- Performance optimization and Core Web Vitals
-- Serverless & edge-ready frontend applications
+**Python · Scikit-learn · XGBoost · Data Analytics**
 
----
+A machine learning project for predicting the number of concurrent flights using historical flight data.
 
-## 📈 Recent GitHub Activity
+The project works with a dataset containing **more than 6 million records**, requiring data preprocessing and optimization before model development.
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+**Highlights**
 
----
+* Large-scale dataset preprocessing
+* Missing value handling
+* Feature engineering
+* Time-based feature categorization
+* Random Forest Regression
+* XGBoost Regression
+* Hyperparameter tuning with `RandomizedSearchCV`
+* Model comparison and experimentation
 
-## 📫 Contact & Collaboration
-
-<div align="center">
-
-**Open for collaboration, internships, and frontend developer opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lavinianatanielanovyandi/)
-[![Email](https://img.shields.io/badge/Email-Send%20a%20Message-D14836?style=flat-square&logo=gmail)](mailto:lavinianataniela05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=flat-square&logo=vercel)](https://lavinianataniela.vercel.app)
-
-</div>
+**Repository:**
+https://github.com/lavinianataniela05/dataAnalytics
 
 ---
 
-<div align="center">
+### ♻️ Recycle Development
 
-<img src="https://komarev.com/ghpvc/?username=lavinianataniela05&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile views" />
+**Next.js · TypeScript · Software Engineering**
 
-**“Building scalable web experiences, one component at a time.”**
+A Software Engineering Annual Project developed as a web application.
 
-</div>
+The project uses a modern Next.js structure with a dedicated application source directory and public assets.
+
+**Highlights**
+
+* Next.js
+* TypeScript
+* Modern frontend architecture
+* Software engineering project workflow
+* Team-based development
+
+**Repository:**
+https://github.com/lavinianataniela05/Recycle_Development
+
+---
+
+### 🐳 Container Assignment
+
+**C++ · Go · PHP · Python**
+
+A programming assignment repository containing implementations across multiple programming languages.
+
+**Languages**
+
+`C++` · `Go` · `PHP` · `Python`
+
+**Repository:**
+https://github.com/lavinianataniela05/container-assignment-lavinia
+
+---
+
+## Development Experience
+
+### Frontend Development
+
+I enjoy building interfaces that are:
+
+* Clean and intuitive
+* Responsive across different screen sizes
+* Reusable through component-based architecture
+* Structured for long-term maintainability
+* Connected to real application data
+
+### Full-Stack Exposure
+
+Beyond frontend development, I have worked with:
+
+`Supabase` · `Firebase` · `PostgreSQL` · `Prisma`
+
+This allows me to understand the complete flow from **UI → application logic → API/data layer → database**.
+
+### Software Engineering
+
+My projects also involve experience with:
+
+* Application architecture
+* Database design
+* CRUD workflows
+* Git-based development
+* Team projects
+* Agile/Scrum development
+* Testing and debugging
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lavinianataniela05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavinianataniela05&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lavinianataniela05&hide_border=true" />
+</p>
+
+---
+
+## Current Focus
+
+```text
+React & Next.js
+TypeScript
+Frontend Architecture
+Reusable Components
+API Integration
+Database Integration
+UI/UX Implementation
+Web Performance
+Full-Stack Development
+```
+
+I'm currently focusing on becoming a stronger **Frontend Engineer** by improving my understanding of scalable application architecture, performance optimization, reusable design systems, and full-stack development.
+
+---
+
+## Let's Connect
+
+<p align="center">
+  <a href="https://lavinianataniela.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lavinianatanielanovyandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lavinianataniela05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lavinianataniela05&label=Profile%20Views&color=6366F1&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>Building thoughtful interfaces, one component at a time.</i>
+</p>
