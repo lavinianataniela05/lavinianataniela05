@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Lavinia Nataniela
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=45&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Clean+%26+Scalable+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&height=45&lines=Frontend+Developer;React+%7C+Next.js+%7C+Laravel+%7C+Flutter;Building+Modern+Web+%26+Mobile+Experiences" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>Building clean, responsive, and scalable digital experiences.</strong>
 </p>
 
 <p align="center">
@@ -16,52 +20,56 @@
   </a>
 </p>
 
-<br>
-
-> **I turn ideas and requirements into clean, responsive, and maintainable web applications.**
-
 ---
 
 ## 🧑🏻‍💻 About Me
 
-I'm a **Frontend Developer** passionate about building modern web applications with a strong focus on **user experience, clean architecture, and maintainable code**.
+I'm a **Frontend Developer** who enjoys turning ideas, designs, and requirements into intuitive and maintainable digital experiences.
 
-My main stack revolves around **React, Next.js, and TypeScript**. I enjoy working on applications that involve complex interfaces, data-driven workflows, backend integration, and reusable component systems.
+My experience spans across **web and mobile development**, with a primary focus on:
 
-I also have experience exploring **database systems, software engineering, data analytics, and machine learning**, giving me a broader perspective when developing applications from frontend to data layer.
+* Modern frontend development with **React & Next.js**
+* Web application development with **Laravel**
+* Cross-platform mobile development with **Flutter**
+* Database and backend integration
+* Responsive and component-based UI development
+* Data-driven applications and dashboards
 
-### Currently
-
-```text
-▸ Building scalable frontend applications
-▸ Improving React & Next.js architecture
-▸ Creating reusable UI components
-▸ Working with APIs & databases
-▸ Learning better performance practices
-▸ Exploring full-stack development
-```
+I enjoy working across different layers of an application — from **designing interfaces and implementing components to connecting APIs and managing application data**.
 
 ---
 
 ## ⚡ Tech Stack
 
-### Frontend
+### 🌐 Frontend & Web
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
 </p>
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `shadcn/ui`
-
-### Backend & Database
-
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=laravel,php" />
 </p>
 
-`Supabase` · `Firebase` · `PostgreSQL` · `Prisma`
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Laravel` · `PHP`
 
-### Tools & Development
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
+`Flutter` · `Dart`
+
+### 🗄️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,mysql,prisma" />
+</p>
+
+`Supabase` · `Firebase` · `PostgreSQL` · `MySQL` · `Prisma`
+
+### 🧰 Tools & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
@@ -69,7 +77,7 @@ I also have experience exploring **database systems, software engineering, data 
 
 `Git` · `GitHub` · `Docker` · `VS Code` · `Vercel`
 
-### Data & Machine Learning
+### 📊 Data & Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -87,13 +95,14 @@ I also have experience exploring **database systems, software engineering, data 
 
 Working in an **Agile/Scrum** environment and contributing to enterprise web application development.
 
-**What I do:**
+**Responsibilities**
 
-* Build and maintain frontend features using React-based technologies.
+* Develop and maintain frontend features using React-based technologies.
 * Translate UI/UX designs and business requirements into functional interfaces.
 * Integrate frontend applications with backend APIs.
-* Develop reusable and maintainable UI components.
+* Build reusable and maintainable UI components.
 * Work with **micro-frontend architecture**.
+* Develop and improve data-driven dashboards and interfaces.
 * Perform debugging, bug fixing, and code refactoring.
 * Create and execute QA test cases.
 * Prepare testing evidence and validate application behavior.
@@ -113,31 +122,31 @@ Working in an **Agile/Scrum** environment and contributing to enterprise web app
 
 ---
 
-## 🧩 What I Enjoy Building
+## 🧩 Areas I Work In
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 🎨 UI Development
+### 🌐 Web
 
-Responsive interfaces, reusable components, forms, tables, dashboards, and user-focused experiences.
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Frontend Systems
-
-Scalable architecture, API integration, state management, reusable components, and maintainable code.
+React, Next.js, Laravel, responsive interfaces, dashboards, forms, tables, and API-driven applications.
 
 </td>
 
 <td width="33%" align="center">
 
-### 📊 Data-driven Apps
+### 📱 Mobile
 
-Dashboards, data visualization, CRUD workflows, filtering, pagination, and database-backed applications.
+Flutter-based cross-platform applications with focus on clean UI and application workflows.
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Application
+
+API integration, databases, authentication, CRUD systems, reusable components, and scalable architecture.
 
 </td>
 </tr>
@@ -148,23 +157,43 @@ Dashboards, data visualization, CRUD workflows, filtering, pagination, and datab
 ## 🛠️ Development Approach
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   Understand  →  Design  →  Build  →  Test  →  Refine │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+       ┌──────────────┐
+       │  Understand  │
+       │ Requirements │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    Design    │
+       │  & Structure │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    Build     │
+       │  & Integrate │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    Test      │
+       │  & Validate  │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    Refine    │
+       │  & Improve   │
+       └──────────────┘
 ```
 
-I care about more than just making an interface work.
+I care about more than making an application work.
 
 My approach is to:
 
-* Understand the requirement before implementation
-* Keep components reusable and organized
-* Maintain consistency across the interface
+* Understand requirements before implementation
+* Build reusable and organized components
+* Keep UI consistent and responsive
+* Integrate APIs and data carefully
 * Validate functionality through testing
-* Refactor when complexity starts to grow
-* Keep the user experience at the center of development
+* Refactor when complexity grows
+* Continuously improve the user experience
 
 ---
 
@@ -178,7 +207,7 @@ My approach is to:
 
 <p align="center">
   <i>
-    I build, experiment, learn, and document my development journey through code.
+    Building, experimenting, learning, and turning ideas into code.
   </i>
 </p>
 
@@ -188,27 +217,29 @@ My approach is to:
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**Frontend**
+### Frontend
 
 * Advanced React patterns
 * Next.js architecture
 * Component design systems
 * Web performance
 * Core Web Vitals
+* Scalable frontend architecture
 
 </td>
 
-<td>
+<td width="50%">
 
-**Engineering**
+### Full-Stack & Mobile
 
-* Scalable frontend architecture
-* API design & integration
+* API architecture
 * Database-driven applications
-* Full-stack development
-* Clean code practices
+* Laravel development
+* Flutter development
+* Backend integration
+* Full-stack application development
 
 </td>
 </tr>
@@ -230,8 +261,6 @@ My approach is to:
   </a>
 </p>
 
-<br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lavinianataniela05&label=Profile%20Views&color=8B5CF6&style=flat-square" />
 </p>
@@ -239,5 +268,5 @@ My approach is to:
 <p align="center">
   <strong>Thanks for stopping by!</strong>
   <br>
-  <sub>Building thoughtful interfaces, one component at a time.</sub>
+  <sub>Building thoughtful digital experiences, one component at a time.</sub>
 </p>
