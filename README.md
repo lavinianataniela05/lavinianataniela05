@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <strong>Frontend Developer focused on building modern, scalable, and user-centered web applications.</strong>
+</p>
+
+<p align="center">
   <a href="https://lavinianataniela.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -20,17 +24,17 @@
 
 ## About Me
 
-I'm a **Frontend Developer** with a strong interest in building modern, responsive, and maintainable web applications.
+I'm a **Frontend Developer** specializing in **React, Next.js, and TypeScript**, with an interest in building clean, responsive, and maintainable web applications.
 
-My main focus is **React, Next.js, and TypeScript**, with experience developing applications involving dashboards, CRUD workflows, database integration, and responsive user interfaces.
+I enjoy turning ideas and requirements into intuitive user interfaces while keeping the underlying code structured and scalable.
 
-I also have experience working with **data analytics, machine learning projects, and software engineering projects**, giving me a broader understanding of how frontend applications connect with data, backend systems, and business requirements.
+My experience includes frontend development, database integration, dashboard applications, software engineering projects, and data analytics.
 
-Currently, I'm focused on improving my skills in **frontend architecture, reusable components, API integration, and full-stack web development**.
+Currently, I'm focused on improving my skills in **frontend architecture, reusable components, API integration, performance optimization, and full-stack development**.
 
 ---
 
-## What I Work With
+## Tech Stack
 
 ### Frontend
 
@@ -38,13 +42,7 @@ Currently, I'm focused on improving my skills in **frontend architecture, reusab
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
 </p>
 
-* React
-* Next.js
-* TypeScript
-* JavaScript
-* Tailwind CSS
-* Responsive UI
-* Component-based development
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square\&logo=shadcnui\&logoColor=white)
 
 ### Backend & Database
 
@@ -52,24 +50,11 @@ Currently, I'm focused on improving my skills in **frontend architecture, reusab
   <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres,prisma" />
 </p>
 
-* Supabase
-* Firebase
-* PostgreSQL
-* Prisma
-* Database integration
-* CRUD applications
-
-### Development Tools
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
 </p>
-
-* Git & GitHub
-* Docker
-* VS Code
-* Vercel
-* Agile / Scrum
 
 ### Data & Machine Learning
 
@@ -82,162 +67,113 @@ Currently, I'm focused on improving my skills in **frontend architecture, reusab
 * Scikit-learn
 * XGBoost
 * Data preprocessing
-* Hyperparameter tuning
 * Predictive modeling
+* Hyperparameter tuning
 
 ---
 
-## Featured Projects
+## Experience
 
-### ☕ Café Management System
+### Frontend Developer Intern
 
-**Next.js · TypeScript · Database Integration**
+**PT Cyberindo Aditama (CBN) — Technology Development**
 
-A web-based café management application developed to support operational workflows through a centralized web interface.
+Working in an Agile/Scrum environment and contributing to the development and improvement of enterprise web applications.
 
-**Highlights**
+**Responsibilities**
 
-* Modern web application built with Next.js
-* TypeScript-based development
-* Component-based UI architecture
-* Application functionality organized through reusable components
-* Deployed using Vercel
+* Developing frontend features using React-based technologies.
+* Implementing responsive interfaces based on UI/UX designs and business requirements.
+* Integrating frontend applications with backend APIs.
+* Developing reusable and maintainable UI components.
+* Working with micro-frontend architecture.
+* Performing debugging, bug fixing, and code refactoring.
+* Creating and executing QA test cases.
+* Preparing testing evidence and validating application behavior.
+* Collaborating with developers, QA engineers, and stakeholders.
 
-**Live Demo:**
-https://cafemanagementsystem-nu.vercel.app
+**Tech & Practices**
 
-**Repository:**
-https://github.com/lavinianataniela05/cafemanagementsystem
-
----
-
-### ♻️ Pengelolaan Sampah
-
-**Next.js · TypeScript · Prisma · PostgreSQL**
-
-A web application focused on waste management with a structured frontend and database architecture.
-
-**Highlights**
-
-* Next.js application architecture
-* TypeScript
-* Reusable components
-* Prisma database layer
-* PostgreSQL-based data management
-* Structured `app`, `components`, `database`, and `lib` directories
-* Deployed using Vercel
-
-**Live Demo:**
-https://pengelolaansampah.vercel.app
-
-**Repository:**
-https://github.com/lavinianataniela05/pengelolaansampah
+`React` · `Next.js` · `TypeScript` · `API Integration` · `Micro-Frontend` · `QA Testing` · `Git` · `Agile/Scrum`
 
 ---
 
-### ✈️ Concurrent Flights Prediction
+## Skills
 
-**Python · Scikit-learn · XGBoost · Data Analytics**
-
-A machine learning project for predicting the number of concurrent flights using historical flight data.
-
-The project works with a dataset containing **more than 6 million records**, requiring data preprocessing and optimization before model development.
-
-**Highlights**
-
-* Large-scale dataset preprocessing
-* Missing value handling
-* Feature engineering
-* Time-based feature categorization
-* Random Forest Regression
-* XGBoost Regression
-* Hyperparameter tuning with `RandomizedSearchCV`
-* Model comparison and experimentation
-
-**Repository:**
-https://github.com/lavinianataniela05/dataAnalytics
-
----
-
-### ♻️ Recycle Development
-
-**Next.js · TypeScript · Software Engineering**
-
-A Software Engineering Annual Project developed as a web application.
-
-The project uses a modern Next.js structure with a dedicated application source directory and public assets.
-
-**Highlights**
-
-* Next.js
-* TypeScript
-* Modern frontend architecture
-* Software engineering project workflow
-* Team-based development
-
-**Repository:**
-https://github.com/lavinianataniela05/Recycle_Development
-
----
-
-### 🐳 Container Assignment
-
-**C++ · Go · PHP · Python**
-
-A programming assignment repository containing implementations across multiple programming languages.
-
-**Languages**
-
-`C++` · `Go` · `PHP` · `Python`
-
-**Repository:**
-https://github.com/lavinianataniela05/container-assignment-lavinia
-
----
-
-## Development Experience
+<table>
+<tr>
+<td width="50%">
 
 ### Frontend Development
 
-I enjoy building interfaces that are:
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Responsive Design
+* Component Architecture
 
-* Clean and intuitive
-* Responsive across different screen sizes
-* Reusable through component-based architecture
-* Structured for long-term maintainability
-* Connected to real application data
+</td>
 
-### Full-Stack Exposure
+<td width="50%">
 
-Beyond frontend development, I have worked with:
+### Application Development
 
-`Supabase` · `Firebase` · `PostgreSQL` · `Prisma`
+* REST API Integration
+* Supabase
+* Firebase
+* PostgreSQL
+* Prisma
+* CRUD Applications
+* Authentication
 
-This allows me to understand the complete flow from **UI → application logic → API/data layer → database**.
+</td>
+</tr>
 
-### Software Engineering
+<tr>
+<td width="50%">
 
-My projects also involve experience with:
+### Engineering
 
-* Application architecture
-* Database design
-* CRUD workflows
-* Git-based development
-* Team projects
-* Agile/Scrum development
-* Testing and debugging
+* Git & GitHub
+* Docker
+* Debugging
+* Refactoring
+* Testing
+* QA
+* Agile / Scrum
+
+</td>
+
+<td width="50%">
+
+### Data
+
+* Python
+* Pandas
+* Scikit-learn
+* XGBoost
+* Data Analysis
+* Machine Learning
+* Data Visualization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Analytics
+## GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lavinianataniela05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavinianataniela05&layout=compact&hide_border=true&langs_count=8" />
+  <a href="https://github.com/lavinianataniela05">
+    <img src="https://img.shields.io/badge/GitHub-@lavinianataniela05-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lavinianataniela05&hide_border=true" />
+  <i>Explore my repositories to see what I'm building and learning.</i>
 </p>
 
 ---
