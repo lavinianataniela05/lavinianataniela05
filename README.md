@@ -87,6 +87,18 @@ I enjoy working across different layers of an application — from **designing i
 
 ---
 
+## 🏢 Organizations
+
+<p align="center">
+  <a href="https://github.com/ORGANIZATION-1">
+    <img src="https://img.shields.io/badge/Organization%201-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/ORGANIZATION-2">
+    <img src="https://img.shields.io/badge/Organization%202-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 ## 🤝 Let's Connect
 
 <p align="center">
