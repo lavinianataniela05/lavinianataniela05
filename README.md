@@ -89,14 +89,9 @@ I enjoy working across different layers of an application — from **designing i
 
 ## 🏢 Organizations
 
-<p align="center">
-  <a href="https://github.com/ORGANIZATION-1">
-    <img src="https://img.shields.io/badge/Organization%201-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/ORGANIZATION-2">
-    <img src="https://img.shields.io/badge/Organization%202-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/TomoNitro"> <img src="https://github.com/TomoNitro.png" width="80" height="80" alt="TomoNitro" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Tenunara"> <img src="https://github.com/Tenunara.png" width="80" height="80" alt="Tenunara" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Wiradana-Technoscape2026"> <img src="https://github.com/Wiradana-Technoscape2026.png" width="80" height="80" alt="Wiradana-Technoscape2026" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Sehatiku"> <img src="https://github.com/Sehatiku.png" width="80" height="80" alt="Sehatiku" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/AIC-SahabatOllie"> <img src="https://github.com/AIC-SahabatOllie.png" width="80" height="80" alt="AIC - SahabatOllie" /> </a> </p>
+
+<p align="center"> <sub> Collaborating and building projects across different teams and organizations. </sub> </p>
 
 ---
 ## 🤝 Let's Connect
